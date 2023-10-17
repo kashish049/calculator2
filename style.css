@@ -11,20 +11,20 @@ body {
 .game-container {
     width: 600px;
     height: 600px;
-    border: 5px solid #fff;
+    border: 5px solid red;
     position: relative;
 }
 
 .snake {
     width: 20px;
     height: 20px;
-    background-color: #4CAF50;
+    background-color: orange;
     position: absolute;
 }
 
 .food {
     width: 20px;
     height: 20px;
-    background-color: black;
+    background-color: yellow;
     position: absolute;
 }
