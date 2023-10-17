@@ -1,2 +1,2 @@
-# calculator2
+# index.html
 simple calculator
